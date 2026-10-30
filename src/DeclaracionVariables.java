@@ -1,3 +1,7 @@
+//*************************
+//DELCLARACION DE VARIABLES
+//*************************
+
 
 public class DeclaracionVariables {
 
