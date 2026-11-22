@@ -12,5 +12,4 @@ public class ConcatenacionStrings {
 		System.out.println("El Salario en Dolares de Manuel es " + salarioEnDolares);
 
 	}
-
 }
